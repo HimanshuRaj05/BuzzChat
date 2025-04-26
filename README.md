@@ -1,4 +1,4 @@
-# whatsapp_flutter
+# BuzzChat
 
 A new Flutter project.
 
